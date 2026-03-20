@@ -34,9 +34,9 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
-<img width="897" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fa61fbc-2919-4844-a263-4497d1956055" />
+<img width="746" height="1230" alt="image" src="https://github.com/user-attachments/assets/97112229-7588-416c-a81a-80e8f90c405c" />
 
-<img width="863" height="1600" alt="image" src="https://github.com/user-attachments/assets/e023430c-4450-422b-8b8b-5efaafba52b0" />
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/01793509-f8f3-4f8c-86fd-aaaf5011b067" />
 
 
 
@@ -57,16 +57,17 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 **TABULAR COLUMN**
+<img width="1476" height="788" alt="image" src="https://github.com/user-attachments/assets/ebfd2d29-0f27-49ea-9739-0b0432d9ad4d" />
 
-<img width="863" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f248e14-84e8-42fd-8a55-61ed7a97fe8a" />
+<img width="1600" height="993" alt="image" src="https://github.com/user-attachments/assets/27839b8d-8170-4ecd-8db8-655715a5abec" />
 
 
 **CALCULATION**
 
+<img width="949" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ded3b52-9426-4643-9b6a-1945caafe52c" />
 
-<img width="876" height="1600" alt="image" src="https://github.com/user-attachments/assets/a6caed94-e87a-4567-b96c-657ab851d447" />
 
-<img width="851" height="1600" alt="image" src="https://github.com/user-attachments/assets/907ed0e6-e1ca-4922-938b-653252a181a3" />
+<img width="1600" height="1337" alt="image" src="https://github.com/user-attachments/assets/7ae46bcd-dd87-45e6-a187-a801fbab76fa" />
 
 
 
@@ -99,8 +100,8 @@ Thevenin’s equivalent circuit
 13.	Theoretically verify the Norton’s theorem.
 
 **MARKSPLIT UP**
+<img width="1247" height="1600" alt="image" src="https://github.com/user-attachments/assets/a94d7b29-1c7c-4c83-b1a5-f921ba72928e" />
 
-<img width="1086" height="1600" alt="image" src="https://github.com/user-attachments/assets/916c9b26-7261-4a96-a708-fbe704d0e0ff" />
 
 
 **RESULT**
