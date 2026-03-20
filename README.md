@@ -66,8 +66,8 @@ Thevenin’s equivalent circuit
 
 <img width="949" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ded3b52-9426-4643-9b6a-1945caafe52c" />
 
+<img width="1247" height="1600" alt="image" src="https://github.com/user-attachments/assets/a94d7b29-1c7c-4c83-b1a5-f921ba72928e" />
 
-<img width="1600" height="1337" alt="image" src="https://github.com/user-attachments/assets/7ae46bcd-dd87-45e6-a187-a801fbab76fa" />
 
 
 
@@ -100,7 +100,7 @@ Thevenin’s equivalent circuit
 13.	Theoretically verify the Norton’s theorem.
 
 **MARKSPLIT UP**
-<img width="1247" height="1600" alt="image" src="https://github.com/user-attachments/assets/a94d7b29-1c7c-4c83-b1a5-f921ba72928e" />
+<img width="1600" height="1337" alt="image" src="https://github.com/user-attachments/assets/7ae46bcd-dd87-45e6-a187-a801fbab76fa" />
 
 
 
